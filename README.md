@@ -1,1 +1,1 @@
-"# This is my README" 
+To run the game you must have Microsoft Visual Studio and XNA installed. Import the project and make a build.
